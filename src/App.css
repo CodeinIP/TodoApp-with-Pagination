@@ -1,7 +1,10 @@
 .App {
   text-align: center;
+  font-size: 25px;
 }
-
+body{
+  background-color: #3a465c;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
